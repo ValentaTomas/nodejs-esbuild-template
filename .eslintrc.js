@@ -18,6 +18,7 @@ module.exports = {
   rules: {
     semi: [2, 'always', { omitLastInOneLineBlock: true }],
     quotes: [2, 'single', { avoidEscape: true }],
+    'import/prefer-default-export': 'off',
     'import/extensions': [
       'error',
       'ignorePackages',
