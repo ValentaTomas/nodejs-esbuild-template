@@ -10,9 +10,7 @@ npm install
 ```
 
 ## Development
-Run the following command to start a **local server that reloads** when you change code or GraphQL schema:
+Run the following command to start a **local server that reloads** when you change code:
 ```bash
 npm run watch
 ```
-
-## Release
